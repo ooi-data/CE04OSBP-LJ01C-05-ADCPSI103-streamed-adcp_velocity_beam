@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_velocity_beam
 data_stream: CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_velocity_beam
 end_date: '2022-02-07T18:33:11.980Z'
-last_updated: '2022-02-10T11:32:04.947691Z'
+last_updated: '2022-02-11T07:02:26.466099'
 start_date: '2014-08-25T18:34:26.660Z'
-status: pending
+status: failed
